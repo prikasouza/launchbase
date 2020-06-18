@@ -1,0 +1,79 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap";
+
+:root {
+  --color-purple: #ae9bf0;
+  --color-lilas: #624EA5;
+}
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  background: var(--color-lilas);
+  color: var(--color-purple);
+  font-family: 'Roboto', sans-serif;
+}
+header div {
+  text-align: center;
+  padding: 30px;
+}
+header div a {
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  padding: 30px;
+}
+
+header div a:hover{
+  color: var(--color-purple);
+  transition: 200m;
+}
+
+#corpo {
+  text-align: center;
+  padding: 50px;
+  margin: 50px;
+}
+
+#sobre {
+  text-align: center;
+}
+#sobre span {
+  color: white;
+  font-size: 40px;
+}
+
+.titulo {
+  text-align: center;
+  margin: 32px;
+}
+
+#footer{
+  text-align: center;
+  
+}
+#footer a img {
+  height: 17px;
+  color: white;
+  
+}
+#texto {
+  text-align: center;
+  padding: 30px;
+  width: 600px;
+  margin: auto;
+  font-size: 14px;
+  line-height: 24px;
+ }
+#texto ul {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#texto li {
+  list-style: none;
+  font-size: 14px;
+  font-weight: normal;
+}

@@ -2,7 +2,7 @@
 
 :root {
   --color-purple: #ae9bf0;
-  --color-lilas: #624EA5;
+  --color-lilas: #6C4FBB;
 }
 *{
   margin: 0;
@@ -40,36 +40,61 @@ header div a:hover{
 #sobre {
   text-align: center;
 }
-#sobre span {
-  color: white;
-  font-size: 40px;
+#sobre img {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  border: 2px solid white;
+  margin: 30px;
 }
 
 .titulo {
   text-align: center;
-  margin: 32px;
+  margin: 10px;
 }
 
 #footer{
   text-align: center;
+  margin: 35px;
   
 }
+#footer a{
+  color: white;
+  margin: 5px;
+  text-decoration: none;
+  }
+
+#footer a:hover{
+  background-color: var(--color-purple);
+  padding: 5px;
+  border-radius: 5px;
+}
+
 #footer a img {
   height: 17px;
-  color: white;
+   
+}
+.content{
+  text-align: center;
+  margin: auto;
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 80%;
   
 }
 #texto {
-  text-align: center;
-  padding: 30px;
-  width: 600px;
-  margin: auto;
-  font-size: 14px;
+  padding: 10px;
+  font-size: 18px;
   line-height: 24px;
- }
+  color:white;
+}
+
+
 #texto ul {
   font-size: 20px;
   font-weight: bold;
+  margin: 10px;
 }
 
 #texto li {

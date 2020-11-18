@@ -8,7 +8,7 @@
 
 <p align="center">
 Bootcamp desenvolvido pela **Rocketseat** ministrada pelo **Mayk Brito** para iniciar na programação Web utilizando
-as tecnologias como --HTML5, CSS3, JavaScripte SQL -- como aplicações práticas preparando para o mercado de trabalho.
+as tecnologias como --HTML5, CSS3, JavaScript e SQL -- como aplicações práticas preparando para o mercado de trabalho.
 </p>
 
 <p align="center">

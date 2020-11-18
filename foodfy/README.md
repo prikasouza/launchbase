@@ -1,16 +1,38 @@
-# Bootcamp Launchbase
----
-
 <h1 align="center">
-    <img alt="Launchbase" src="https://github.com/prikasouza/launchbase/blob/master/Desafios/img/logo.png" width="400px" />
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
-</br>
+
+<h3 align="center">
+  Desafio: Construindo Foodfy
+</h3>
+
+<blockquote align="center">“Sua única limitação é você mesmo!”</blockquote>
 
 <p align="center">
-Bootcamp desenvolvido pela **Rocketseat** ministrada pelo **Mayk Brito** para iniciar na programação Web utilizando
-as tecnologias como --HTML5, CSS3, JavaScripte SQL -- como aplicações práticas preparando para o mercado de trabalho.
+
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+  </a>
+
+  <a href="LICENSE" >
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+
 </p>
 
 <p align="center">
-Nesse repositório está todo o conteúdo aprendido e desenvolvido nesse Botcamp.
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
+
+## :rocket: Sobre o desafio
+
+Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
+
+<div align="center">
+  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/mockup.png" />
+</div>
+
+
+

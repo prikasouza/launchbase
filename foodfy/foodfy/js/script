@@ -1,0 +1,10 @@
+const backModal = document.querySelector('.back-modal')
+
+const cards = document.querySelectorAll('.card') 
+
+for (let card of cards) {
+  card.addEventListener("click", function(){
+    backModal.classList.add("active")
+
+  })
+}

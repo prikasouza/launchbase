@@ -28,7 +28,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio você vai construir um site completo para uma empresa de receitas chamada Foodfy.
+O Desafio é construir um site completo para uma empresa de receitas chamada Foodfy.
 
 <div align="center">
   <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/mockup.png" />
